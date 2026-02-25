@@ -1,5 +1,5 @@
 html {
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Arial';
 }
 
 h1, h2, h3 {
@@ -34,4 +34,5 @@ footer {
     padding: 16px;
     text-align: center;
 }
+
 
